@@ -1,0 +1,8 @@
+---
+name: LiteLLM
+base_pricing: $0
+sso_pricing: Call Us!
+vendor_url: https://www.litellm.ai/
+pricing_source: https://www.litellm.ai/pricing
+updated_at: 2026-10-27
+vendor_note: SSO and SCIM require the Enterprise plan with custom pricing.
