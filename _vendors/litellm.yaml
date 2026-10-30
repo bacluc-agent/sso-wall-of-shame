@@ -1,9 +1,8 @@
 ---
-base_pricing: $0
 name: LiteLLM
-percent_increase: ???
-pricing_source: https://www.litellm.ai/pricing
+base_pricing: $0
 sso_pricing: Call Us!
-updated_at: 2026-10-29
-vendor_note: SSO and SCIM are only available on the Enterprise plan, which is quoted by annual gateway request capacity via sales.
 vendor_url: https://www.litellm.ai/
+pricing_source: https://www.litellm.ai/pricing
+updated_at: 2026-10-27
+vendor_note: SSO and SCIM require the Enterprise plan with custom pricing.
